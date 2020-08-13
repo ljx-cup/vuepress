@@ -16,7 +16,7 @@
 ```bash
 yarn add vuepress -D
 ```
-
+.
 ## Documentation
 
 Check out our docs at https://vuepress.vuejs.org/.
